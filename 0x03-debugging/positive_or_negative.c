@@ -2,8 +2,8 @@
 /* betty style doc for function main goes there */
 
 /**
- * positive_or_negaative - function used
- *
+ * positive_or_negative - function used
+ *@i: character to be checked
  * Return: void
  */
 void positive_or_negative(int i)
