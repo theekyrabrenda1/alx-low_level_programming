@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * string_nconcat - function used 
+ * string_nconcat - function used
  * @s1: string
  * @s2: string
  * @n: character
@@ -41,6 +41,7 @@ if (str == NULL)
 {
 return (NULL);
 }
+k = 0;
 while (j < l)
 {
 if (j <= i)

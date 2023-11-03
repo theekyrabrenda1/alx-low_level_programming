@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * malloc_checked - function used 
+ * malloc_checked - function used
  * @b: character
  *
  * Return: nothing

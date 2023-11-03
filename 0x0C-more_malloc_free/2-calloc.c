@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * _calloc - function used 
+ * _calloc - function used
  * @nmemb: string
  * @size: size
  *

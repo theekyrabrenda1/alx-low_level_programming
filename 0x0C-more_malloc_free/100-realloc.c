@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * _realloc - function used 
+ * _realloc - function used
  * @ptr: character
  * @old_size: character
  * @new_size: character

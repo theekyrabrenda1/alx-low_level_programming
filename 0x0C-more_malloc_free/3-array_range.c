@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * array_range - function used 
+ * array_range - function used
  * @min: integer
  * @max: integer
  *
