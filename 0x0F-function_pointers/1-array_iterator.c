@@ -4,13 +4,18 @@
  *array_iterator - function used
  *@array: array
  *@size: size
- *(*action)(int) - function
+ *@action: pointer
  *Return: nothing
  */
 void array_iterator(int *array, size_t size, void (*action)(int))
 {
-for (size_t i = 0; i < size; i++)
+unsigned int i = 0;
+if (array != NULL && action != NULL && size > 0)
+{
+while (i < size)
 {
 action(array[i]);
+i++;
+}
 }
 }
